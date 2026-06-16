@@ -3327,3 +3327,18 @@ input, select, textarea {
 			}
 
 		}
+
+.tiles article > a .content {
+  margin-top: 1.1em;
+}
+
+.tiles article > a .content p {
+  margin: 0;
+  line-height: 1.55;
+  word-break: keep-all;
+  overflow-wrap: normal;
+}
+
+.tiles article > a .content p span {
+  display: block;
+}
